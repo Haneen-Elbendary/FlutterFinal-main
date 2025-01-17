@@ -96,8 +96,10 @@ Contributions are welcome! To contribute:
 
 ---
 
-## License
-Copyright (c) [2025] [Haneen Elbendary]
+## Copyright
+
+Copyright (c) 2025 Haneen Elbendary. All rights reserved.
+
 
 ---
 
